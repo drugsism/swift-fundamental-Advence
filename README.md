@@ -98,24 +98,24 @@ swift fundamental to advence for iOS development
 
 > Objective C
 
-Objective C 1-Swift와 Objective C 문법 간단 비교
-Objective-C 2-swiftify 사이트
-Objective-C 3-tutorialspoint에서 Objective-C 배우기
-Objective-C 4-(main함수 기본 틀)
-Objective-C 5-자료형(data type)
-Objective-C 6-동적타입(id)
-Objective-C 7-const, long long
-Objective-C 8-self와 super
-Objective C 9-연산자
-Objective-C 10-제어문
-Objective-C 11-전처리기(#import)
-Objective-C 12-함수
-Objective-C 13-함수 호출
-Objective-C 14-도움말 보기
-Objective-C 15-클래스(class) 만들기
-Objective-C 16-클래스까지 문법 복습
-Objective-C 17  @property, @synthesize
-Objective-C 18-class extension
-Objective-C 19-Objective-C 소스를 Swift로 변환
-Objective-C 20  프로토콜(protocol), Objective-C  vs Swift
-Objective C 21 NSNumber, NSArray, NSDictionary
+- Objective C 1-Swift와 Objective C 문법 간단 비교
+- Objective-C 2-swiftify 사이트
+- Objective-C 3-tutorialspoint에서 Objective-C 배우기
+- Objective-C 4-(main함수 기본 틀)
+- Objective-C 5-자료형(data type)
+- Objective-C 6-동적타입(id)
+- Objective-C 7-const, long long
+- Objective-C 8-self와 super
+- Objective C 9-연산자
+- Objective-C 10-제어문
+- Objective-C 11-전처리기(#import)
+- Objective-C 12-함수
+- Objective-C 13-함수 호출
+- Objective-C 14-도움말 보기
+- Objective-C 15-클래스(class) 만들기
+- Objective-C 16-클래스까지 문법 복습
+- Objective-C 17  @property, @synthesize
+- Objective-C 18-class extension
+- Objective-C 19-Objective-C 소스를 Swift로 변환
+- Objective-C 20  프로토콜(protocol), Objective-C  vs Swift
+- Objective C 21 NSNumber, NSArray, NSDictionary
